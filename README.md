@@ -9,3 +9,5 @@ Serious game développé pour des étudiants ainsi qu'un site web développé po
 
 - Site web : https://github.com/aliliKM/FLAV_siteweb (CSS, HTML, PHP, JQuery, Bootstrap)
 Site web développé pour les professeurs (qui se connectent avec un identifiant et un mot de passe au site) afin de visualiser l'évolution des étudiants dans le jeu (suivi visuel avec JQuery) et pour pouvoir modifier les questions/réponses du mini-jeu. Application Androide et site web reliés par un serveur. Utilisation de Bootstrap pour que le site soit responsive.
+
+![OiseauGif](https://user-images.githubusercontent.com/33696915/142452281-41379cc5-a1c2-487a-9c62-74424dc5d27f.gif)
